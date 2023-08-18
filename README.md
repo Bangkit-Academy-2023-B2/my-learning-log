@@ -1,2 +1,10 @@
-# my-learning-log
-This repository implements part 2 of case study from learn basic Git with GitHub class on Dicoding platform.
+# My Learning Log
+This repository explain my learning progress in Dicoding platform.
+
+#### 16 June 2023
+Learned Basic Git with Github (Progress 10%)
+~~~
+• Learning preparation
+• Git and Github  
+~~~
+
